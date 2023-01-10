@@ -14,8 +14,8 @@
 
 
 
-### Hi there 👋
-I'm a Software Engineer
+### Hey there 👋
+
 
 
 
