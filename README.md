@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" width="100"/>
+</div>
+
+
+
+
 ### Hi there 👋
 I'm a Software Engineer 
 
