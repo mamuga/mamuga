@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/kl5ctZSctCbE4/giphy.gif" width="100"/>
   </div>
   <div id ="badges" align="center">
@@ -19,7 +19,7 @@
 
 
 
-<!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
